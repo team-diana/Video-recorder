@@ -4,3 +4,5 @@ stop recording with crtl+c
 
 usage :
 $./receiver.sh port file-path
+
+$./webcam.sh camera_number destination_ip UDP_Port
